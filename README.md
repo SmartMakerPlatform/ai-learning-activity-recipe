@@ -1,0 +1,2 @@
+# SmartMakerAIPlus
+SharedResources
